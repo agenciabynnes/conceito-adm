@@ -4850,9 +4850,9 @@ function enviaraddmorador()
 ///////////////////////////// inserir morador teste///////////////////////////
 $$('#cadastro-teste').on('click', function(){
  
-        $$idcondominio = "1";
-        $$idbloco = "2";
-        $$iddomicilio = "3093";
+        $$idcondominio = "36";
+        $$idbloco = "1923";
+        $$iddomicilio = "7594";
         $$txtNomeAddMorador = $$('#txtnomeaddmoradorteste').val();
         $$txtEmailAddMorador = $$('#txtemailaddmoradorteste').val();
         $$cellPhoneaddMorador = $$('#cellphoneaddmoradorteste').val();
