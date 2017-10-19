@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>214666097431-in9cmu57a483tvqf7vtp4o9lafor2lam.apps.googleusercontent.com</string>
+	<string>1048256376798-28l55mgm6nvvnoge0c9p35k2fjuibe0c.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.214666097431-in9cmu57a483tvqf7vtp4o9lafor2lam</string>
+	<string>com.googleusercontent.apps.1048256376798-28l55mgm6nvvnoge0c9p35k2fjuibe0c</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDKB6Q2DeJmxCmG-XOA88iWKmExX2XJzYc</string>
+	<string>AIzaSyAuC1_2jWWWKDLbch0Y1d4PHErjpd_tlpQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>214666097431</string>
+	<string>1048256376798</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.aptohome.ios</string>
+	<string>com.conceito.ios</string>
 	<key>PROJECT_ID</key>
-	<string>aptohome-1056</string>
+	<string>conceito-70e70</string>
 	<key>STORAGE_BUCKET</key>
-	<string>aptohome-1056.appspot.com</string>
+	<string>conceito-70e70.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:214666097431:ios:6a42e6e925649fb6</string>
+	<string>1:1048256376798:ios:96454492b95f33bf</string>
 	<key>DATABASE_URL</key>
-	<string>https://aptohome-1056.firebaseio.com</string>
+	<string>https://conceito-70e70.firebaseio.com</string>
 </dict>
 </plist>
